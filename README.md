@@ -1,3 +1,6 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+
 # constituency-to-nuts2
 This repo contains geographic region conversion tables. If you find anything incorrect, please make an issue.
 
